@@ -1,0 +1,15 @@
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\bin\Debug\net6.0\ChickenTest.exe
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\bin\Debug\net6.0\ChickenTest.deps.json
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\bin\Debug\net6.0\ChickenTest.runtimeconfig.json
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\bin\Debug\net6.0\ChickenTest.dll
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\bin\Debug\net6.0\ChickenTest.pdb
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\obj\Debug\net6.0\ChickenTest.csproj.AssemblyReference.cache
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\obj\Debug\net6.0\ChickenTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\obj\Debug\net6.0\ChickenTest.AssemblyInfoInputs.cache
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\obj\Debug\net6.0\ChickenTest.AssemblyInfo.cs
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\obj\Debug\net6.0\ChickenTest.csproj.CoreCompileInputs.cache
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\obj\Debug\net6.0\ChickenTest.dll
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\obj\Debug\net6.0\refint\ChickenTest.dll
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\obj\Debug\net6.0\ChickenTest.pdb
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\obj\Debug\net6.0\ChickenTest.genruntimeconfig.cache
+C:\Users\annon\source\repos\ChickenTest\ChickenTest\obj\Debug\net6.0\ref\ChickenTest.dll
